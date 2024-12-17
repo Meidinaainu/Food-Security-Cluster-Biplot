@@ -5,7 +5,7 @@ Files associated with Biplot and Non-Hierarchical Cluster Analysis of Food Secur
 
 Combination of Biplot and K-Medoids Clustering Analysis Using Square Euclidean and Mahalanobis Distance (Study on Food Security Cases in East Nusa Tenggara)
 
-**2. CLuster Results**
+**2. Cluster Results**
 
 **1. Square Euclidean**
 Cluster 1: Sumba Barat dan Timor Tengah Selatan
