@@ -33,7 +33,7 @@ Cluster 5: Sumba Tengah
 
 Cluster 6: Kota Kupang
 
-**3Conclusion**
+**3. Conclusion**
 1. The k-medoids cluster analysis using squared Euclidean distance and Mahalanobis distance each resulted in 6 clusters. The validity of the clusters, measured by the silhouette index, showed an average index of 0.3676 for squared Euclidean distance and 0.2867 for Mahalanobis distance, indicating that clustering using squared Euclidean distance produced better results.
 
 2. For both distance measures, clusters 1 and 3 have high numbers of stunted children and households without access to electricity, while cluster 2 is characterized by a low number of healthcare workers. Cluster 4 does not exhibit any distinctive advantages in any variable, and cluster 6 has low net production combined with high consumption. Additionally, in squared Euclidean distance, cluster 5 has a high number of households without access to electricity, whereas in Mahalanobis distance, it is characterized by a low number of healthcare workers.
