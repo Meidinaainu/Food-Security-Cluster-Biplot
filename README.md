@@ -8,6 +8,7 @@ Combination of Biplot and K-Medoids Clustering Analysis Using Square Euclidean a
 **2. Cluster Results**
 
 **1. Square Euclidean**
+
 Cluster 1: Sumba Barat dan Timor Tengah Selatan
 
 Cluster 2:Sumba Timur dan Sumba Tengah
@@ -21,6 +22,7 @@ Cluster 5: Sumba Barat Daya
 Cluster 6: Kota Kupang
 
 **2. Mahalanobis**
+
 Cluster 1: Sumba Barat dan Sumba Barat Daya
 
 Cluster 2:Sumba Timur, Kabupaten Kupang, dan Timor Tengah Selatan
